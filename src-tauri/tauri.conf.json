@@ -43,7 +43,8 @@
         "title": "Todo App",
         "width": 550,
         "height": 450,
-        "minWidth": 400
+        "minWidth": 400,
+        "minHeight": 400
       }
     ]
   }
